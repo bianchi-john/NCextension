@@ -1,2 +1,2 @@
 # NCextension
-An extension for ''' Bianchi, John, et al. "Evaluating Trustworthiness of Online News Publishers via Article Classification." Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing. 2024.'''
+An extension for [Evaluating Trustworthiness of Online News Publishers via Article Classification](https://dl.acm.org/doi/abs/10.1145/3605098.3636044)
